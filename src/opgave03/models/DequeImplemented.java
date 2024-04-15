@@ -1,6 +1,5 @@
 package opgave03.models;
 
-import opgave02.QueueDouble;
 
 public class DequeImplemented<E> implements Deque<E> {
 
